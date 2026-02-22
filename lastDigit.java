@@ -13,8 +13,8 @@ class lastDigit {
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
         
-        int lastDigit = getLastDigit(n);
-        System.out.println("Output: " + lastDigit);
+        int ld = getLastDigit(n); // last digit
+        System.out.println("Output: " + ld);
         
         sc.close();
     }
