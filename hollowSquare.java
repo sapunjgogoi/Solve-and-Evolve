@@ -13,7 +13,7 @@ class HollowSquare {
             // Inner loop for columns
             for (int j = 1; j <= n; j++) {
                 // Check if we are on the boundary
-                if (i == 0 || i == n || j == 0 || j == n) {
+                if (i == 1 || i == n || j == 1 || j == n) {
                     System.out.print("* ");
                 } else {
                     // Print spaces for the hollow center
