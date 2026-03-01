@@ -1,3 +1,5 @@
+// For checking whether two arrays are equal (same elements with same frequencies, order doesn’t matter).
+
 import java.util.*;
 
 class twoArray {
