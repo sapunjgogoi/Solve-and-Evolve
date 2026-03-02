@@ -1,4 +1,8 @@
-// Leetcode 3
+// Longest Substring Without Repeating Characters (LeetCode 3)
+
+// Problem: Find length of longest substring without repeating characters.
+
+// Sliding Window Solution (O(n))
 
 import java.util.*;
 
