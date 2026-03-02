@@ -1,3 +1,7 @@
+// Add Two Numbers (LeetCode 2)
+
+// Problem: Add two numbers represented as linked lists.
+
 class ListNode {
     int val;
     ListNode next;
